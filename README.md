@@ -1,24 +1,20 @@
-# Hi there 👋, I'm Ridoy Sharif
-## WordPress and Web designer
-Hello! <br/>
-Welcome! Are you looking for a best quality website design for you? If you need a clean and modern interface for your website. Contact me now to make your dream website design. I'm Ridoy Sharif. I'm a professional WordPress expert and Web designer. I am an expert in this work. I have completed 100+ website design. My design is pixel perfect and clean coding. I know how to make a responsive and user-friendly website. I am totally responsible for your work. My goal is to satisfy my clients with my work. I love to work with clients from all over the world. I like to learning, I like to use my creativity. My professional skill:<br/>
+<h1 align="center">Hi 👋, I'm Ridoy Sharif</h1>
+<h3 align="center">WordPress expert | Web designer | Landing page designer</h3>
 
-✅ HTML<br/>
-✅ CSS<br/>
-✅ Basic JavaScript<br/>
-✅ jQuery<br/>
-✅ Bootstrap 5<br/>
-✅ Website Design<br/>
-✅ PSD TO HTML<br/>
-✅ Landing page design<br/>
-✅ WordPress customization<br/>
-✅ Elementor<br/>
-✅ Elementor Pro<br/>
-✅ Responsive Web Design<br/>
-If you give me a chance to do the job, you can be worry free. Hopefully, I will be able to give you something better.<br/>
+- 🌱 I’m currently learning **Full stack web development**
 
-Kind Regards<br/>
-Ridoy Sharif
+- 👨‍💻 All of my projects are available at [https://devsridoy.com/](https://devsridoy.com/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wdridoy11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wdridoy11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wdridoy11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.behance.net/wdridoy11)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdridoy11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wdridoy11" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wdridoy11" height="30" width="40" /></a>
+<a href="https://fb.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wdridoy11" height="30" width="40" /></a>
+<a href="https://instagram.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wdridoy11" height="30" width="40" /></a>
+<a href="https://dribbble.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wdridoy11" height="30" width="40" /></a>
+<a href="https://www.behance.net/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="wdridoy11" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
