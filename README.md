@@ -85,3 +85,8 @@ Email Address: **wdridoy11@gmail.com**
          alt="photoshop" width="40" height="40" />
    </a>
 </p>
+
+<p>
+Kind Regards<br/>
+Ridoy Sharif
+</p>
