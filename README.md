@@ -20,12 +20,11 @@ Hello, I'm Ridoy Sharif. I'm a professional WordPress expert | Web designer | La
 <br/>
 If you need a clean and modern interface for your website. Contact me now to make your dream website design. If you give me a chance to do the job, you can be worry free. Hopefully, I will be able to give you something better.**
 
-- 🌱 I’m currently learning **Full stack web development**
+I’m currently learning **Full stack web development**
 
-- 👨‍💻 My portfolio website: [https://devsridoy.com/](https://devsridoy.com/)
+My portfolio website: [https://devsridoy.com/](https://devsridoy.com/)
 
-
- Email Address **wdridoy11@gmail.com**
+Email Address: **wdridoy11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
