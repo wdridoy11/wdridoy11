@@ -5,6 +5,12 @@
 
 - 👨‍💻 All of my projects are available at [https://devsridoy.com/](https://devsridoy.com/)
 
+- 💬 Ask me about **Hello, I'm Ridoy Sharif. I'm a professional WordPress expert | Web designer | Landing page designer. I am an expert in this work. I have 2 years of experience. I have completed 100+ website design. My design is pixel perfect and clean coding. I know how to make a responsive and user-friendly website. I am totally responsible for your work. My goal is to satisfy my clients with my work. I love to work with clients from all over the world. I like to learning, I like to use my creativity. My professional skill: ✅ HTML ✅ CSS ✅ SCSS ✅ Basic JavaScript ✅ jQuery ✅ Bootstrap 5 ✅ Website Design ✅ PSD TO HTML ✅ Landing page design ✅ WordPress customization ✅ Elementor ✅ Elementor Pro ✅ Responsive Web Design If you need a clean and modern interface for your website. Contact me now to make your dream website design. If you give me a chance to do the job, you can be worry free. Hopefully, I will be able to give you something better.**
+
+- 📫 How to reach me **wdridoy11@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1UVB96GYfI3eZpj0YFfzRT4qnutHxqXs1](https://drive.google.com/drive/u/0/folders/1UVB96GYfI3eZpj0YFfzRT4qnutHxqXs1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdridoy11" height="30" width="40" /></a>
