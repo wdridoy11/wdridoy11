@@ -18,7 +18,8 @@ Hello, I'm Ridoy Sharif. I'm a professional WordPress expert | Web designer | La
 ✅ Elementor Pro<br/>
 ✅ Responsive Web Design<br/>
 <br/>
-If you need a clean and modern interface for your website. Contact me now to make your dream website design. If you give me a chance to do the job, you can be worry free. Hopefully, I will be able to give you something better.**
+If you need a clean and modern interface for your website. Contact me now to make your dream website design. If you give me a chance to do the job, you can be worry free. Hopefully, I will be able to give you something better.**<br/><br/>
+
 
 I’m currently learning **Full stack web development**
 
