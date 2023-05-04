@@ -23,7 +23,7 @@ If you need a clean and modern interface for your website. Contact me now to mak
 
 I’m currently learning **Full stack web development**
 
-My portfolio website: [https://devsridoy.com/](https://devsridoy.com/)
+My portfolio website: https://ridoysharif.netlify.app
 
 Email Address: **wdridoy11@gmail.com**
 
