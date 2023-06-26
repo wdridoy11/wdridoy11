@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Ridoy Sharif</h1>
 <img src="https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/337531730_3402845586711079_8712163534588709546_n.png?stp=dst-png_p180x540&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeErlxZVpxmJUj0AeRAaRFNz1OPP6pEj0wjU48_qkSPTCG6Fv8b3AVmpAr9qNkhnvGMG7Uq6inMGyxwA_piHAyxl&_nc_ohc=NV6Tdj2SB0wAX8jtHOp&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfD-wh1ajKUZ-pXanmwfT7XV0LGRgZAI7VU7gYUFUyQ-4Q&oe=64817F7D" alt="cover" />
-<h3>WordPress expert | Web designer | Landing page designer</h3>
+<h3>MERN stack web developer and WordPress expert</h3>
 <h3>About Me </h3><br/> 
-Hello, I'm Ridoy Sharif. I'm a professional WordPress expert | Web designer | Landing page designer. I am an expert in this work. I have 2 years of experience. I have completed 100+ website design. My design is pixel perfect and clean coding. I know how to make a responsive and user-friendly website. I am totally responsible for your work. My goal is to satisfy my clients with my work. I love to work with clients from all over the world. I like to learning, I like to use my creativity. My professional skill:<br/>
+Hello, I'm Ridoy Sharif. I'm a MERN stack web developer and WordPress expert. I am an expert in this work. I have 2 years of experience. I have completed 100+ website design. My design is pixel perfect and clean coding. I know how to make a responsive and user-friendly website. I am totally responsible for your work. My goal is to satisfy my clients with my work. I love to work with clients from all over the world. I like to learning, I like to use my creativity. My professional skill:<br/>
 <br/>
 ✅ HTML<br/>
 ✅ CSS<br/>
