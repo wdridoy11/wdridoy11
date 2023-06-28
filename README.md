@@ -79,7 +79,7 @@ Email Address: **ridoysharif30@gmail.com**
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
       </a> 
      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-         <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://itproger.com/intensive/img/express.png)" height="40" alt="express logo"  />
+         <img src="https://itproger.com/intensive/img/express.png" height="40" alt="express logo"  />
        </a> 
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
