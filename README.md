@@ -30,7 +30,7 @@ I’m currently learning **Full stack web development**
 
 My portfolio website: https://ridoysharif.netlify.app
 
-Email Address: **wdridoy11@gmail.com**
+Email Address: **ridoysharif30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
