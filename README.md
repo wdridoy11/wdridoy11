@@ -72,13 +72,24 @@ Email Address: **ridoysharif30@gmail.com**
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
          alt="react" width="40" height="40" />
    </a>
-   <a href="https://jquery.com" target="_blank" rel="noreferrer">
-      <img src="https://w7.pngwing.com/pngs/606/221/png-transparent-jquery-original-logo-icon.png" alt="jquery"
-         width="40" height="40" />
-   </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+    </a> 
+     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+       </a> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+      </a>
+       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+       </a> 
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+         </a> 
+       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-   </a> 
+      </a> 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
    </a>
