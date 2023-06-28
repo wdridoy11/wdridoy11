@@ -10,8 +10,11 @@ I’m Ridoy Sharif. I’m a MERN Stack Web Developer and WordPress Expert. I hav
 ✅ Bootstrap 5<br/>
 ✅ TailwindCSS<br/>
 ✅ JavaScript<br/>
+✅ React.js<br/>
+✅ Express.js<br/>
 ✅ jQuery<br/>
-
+✅ Firebase<br/>
+✅ MongoDB<br/>
 ✅ Website Design<br/>
 ✅ PSD TO HTML<br/>
 ✅ Landing page design<br/>
