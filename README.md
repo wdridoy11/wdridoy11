@@ -1,9 +1,8 @@
 <h1>Hi 👋, I'm Ridoy Sharif</h1>
 <img src="https://github.com/wdridoy11/web-icon/blob/main/webdeveloper.png?raw=true" alt="cover" />
-<h3>About Me </h3><br/> 
-<h3>Hello, I'm Ridoy Sharif, a certified and experienced Full Stack Web Developer and WordPress expert</h3>
-
-I have completed over 100+ web project for 20 clients. If you're looking for a professional Web Developer, then you have come to the right place. I can design and develop your website exactly as per your requirements. I always respect and honor timelines for my projects.<br/>
+<h2>Full Stack Web Developer and WordPress expert</h2>
+<h3>About Me </h3>
+Hello, I'm Ridoy Sharif, a certified and experienced Full Stack Web Developer and WordPress expert. I have completed over 100+ web project for 20 clients. If you're looking for a professional Web Developer, then you have come to the right place. I can design and develop your website exactly as per your requirements. I always respect and honor timelines for my projects.<br/>
 <h4>What I Do:</h4><br/> 
 I help to design and develop website according to your requirements and needs. My goal is to produce an excellent, workable website that fulfills your needs, and is fully responsive on Desktop, Laptop and Mobile.
 <br/>
