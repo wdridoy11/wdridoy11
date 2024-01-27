@@ -1,32 +1,17 @@
 <h1>Hi 👋, I'm Ridoy Sharif</h1>
 <img src="https://github.com/wdridoy11/web-icon/blob/main/webdeveloper.png?raw=true" alt="cover" />
-<h3>MERN stack web developer and WordPress expert</h3>
 <h3>About Me </h3><br/> 
-I’m Ridoy Sharif. I’m a MERN Stack Web Developer and WordPress Expert. I have completed 100+ website design using WordPress and HTML, CSS, Bootstrap, Tailwind CSS. My design is pixel perfect and clean coding. I know how to make a responsive and user-friendly website. I am totally responsible for your work. My goal is to satisfy my clients with my work. I like to learn, I like to use my creativity. I love to work with clients from all over the world. Are you looking for a best quality website design for you? If you need a clean and modern interface for your website. Contact me now to make your dream website design. My skills:<br/>
-<br/>
-✅ HTML<br/>
-✅ CSS<br/>
-✅ SCSS<br/>
-✅ Bootstrap 5<br/>
-✅ TailwindCSS<br/>
-✅ JavaScript<br/>
-✅ React.js<br/>
-✅ Express.js<br/>
-✅ jQuery<br/>
-✅ Firebase<br/>
-✅ MongoDB<br/>
-✅ Website Design<br/>
-✅ PSD TO HTML<br/>
-✅ Landing page design<br/>
-✅ WordPress customization<br/>
-✅ Elementor<br/>
-✅ Elementor Pro<br/>
-✅ Responsive Web Design<br/>
-<br/>
-If you need a clean and modern interface for your website. Contact me now to make your dream website design. If you give me a chance to do the job, you can be worry free. Hopefully, I will be able to give you something better.**<br/><br/>
+<h3>Hello, I'm Ridoy Sharif, a certified and experienced Full Stack Web Developer and WordPress expert</h3>
 
+I have completed over 100+ web project for 20 clients. If you're looking for a professional Web Developer, then you have come to the right place. I can design and develop your website exactly as per your requirements. I always respect and honor timelines for my projects.<br/>
+<h4>What I Do:</h4><br/> 
+I help to design and develop website according to your requirements and needs. My goal is to produce an excellent, workable website that fulfills your needs, and is fully responsive on Desktop, Laptop and Mobile.
+<br/>
 
-I’m currently learning **Full stack web development**
+If you have any questions or would like to discuss your project requirements, send me a message for a preliminary discussion. I usually respond within an hour. I look forward to working with you.
+<br/>
+
+I’m currently learning: ASP.NET Core
 
 My portfolio website: https://ridoysharif.netlify.app
 
